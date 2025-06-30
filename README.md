@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Nishamahadevan
 - 👀 I’m interested in playing with numbers so i dive into a data analytics
-- 🌱 I’m currently learning data analytics
+- 🌱 I’m currently working as data analyst and would like to explore more on data
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email me or linkedin
-- 😄 Pronouns: ...
+- 📫 Reach me on nishaece13@gmail.com / nisha.theanalyst@gmail.com
+- 😄
 - ⚡ Fun fact: ...
 
 <!---
